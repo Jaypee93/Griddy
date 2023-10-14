@@ -1,0 +1,37 @@
+.jonathan-container {
+  background-color: hsl(217, 19%, 35%);
+  border-radius: 10px;
+  padding: 10px 20px 20px 20px;
+}
+
+.jonathan-about {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+  padding: 10px;
+}
+
+.jonathan-intro {
+  flex-direction: column;
+  
+}
+
+.jonathan-img {
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+}
+
+.jonathan-comment {
+    display: flex;
+    text-align: start;
+    padding-left: 20px;
+}
+
+.jonathan-quote {
+    display: flex;
+    justify-content: flex-start;
+    text-align: start;
+    padding-left: 20px;
+}
