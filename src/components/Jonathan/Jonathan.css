@@ -10,11 +10,16 @@
   align-items: center;
   gap: 20px;
   padding: 10px;
+  color: white;
 }
 
 .jonathan-intro {
   flex-direction: column;
-  
+  color: white;
+}
+
+.jonathan-small {
+  color: rgba(255, 255, 255, 0.5)
 }
 
 .jonathan-img {
@@ -27,6 +32,7 @@
     display: flex;
     text-align: start;
     padding-left: 20px;
+    color: white;
 }
 
 .jonathan-quote {
@@ -34,4 +40,5 @@
     justify-content: flex-start;
     text-align: start;
     padding-left: 20px;
+    color: rgba(255, 255, 255, 0.5)
 }

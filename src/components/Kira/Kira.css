@@ -1,0 +1,46 @@
+.kira-container {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    padding: 10px 20px 20px 20px;
+    
+}
+
+.kira-about {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    padding: 10px;
+
+}
+
+.kira-img {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+}
+
+.kira-intro {
+    flex-direction: column;
+}
+
+.kira-comment {
+    display: flex;
+    text-align: start;
+    padding-left: 20px;
+
+}
+
+.kira-quote {
+    display: flex;
+    justify-content: flex-start;
+    text-align: start;
+    padding-left: 20px;
+    color: rgba(0, 0, 0, 0.7)
+
+}
+
+.kira-small {
+    color: rgba(0, 0, 0, 0.7)
+    
+}
