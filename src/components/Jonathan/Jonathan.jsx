@@ -10,7 +10,7 @@ export default function Jonathan() {
         <div className="jonathan-intro">
           <p>Jonathan Walters</p>
           <p>
-            <small>Verified Graduate</small>
+            <small className="jonathan-small">Verified Graduate</small>
           </p>
         </div>
       </div>
