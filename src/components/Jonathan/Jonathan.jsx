@@ -1,6 +1,6 @@
 import React from "react";
 import "./Jonathan.css";
-import jonathanImg from "../assets/image-jonathan.jpg";
+import jonathanImg from '../../assets/image-jonathan.jpg'
 
 export default function Jonathan() {
   return (

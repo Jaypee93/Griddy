@@ -1,0 +1,47 @@
+.daniel-container {
+    background-color: hsl(263, 55%, 52%);
+    border-radius: 10px;
+    padding: 10px 20px 20px 20px;
+  }
+  
+  .daniel-about {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    padding: 10px;
+  }
+  
+  .daniel-intro {
+    flex-direction: column;
+    
+  }
+
+  .qouteImg {
+    height: 150px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: 50px;
+  }
+  
+  .daniel-img {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    border: 1px solid purple;
+  }
+  
+  .daniel-comment {
+      display: flex;
+      text-align: start;
+      padding-left: 20px;
+  }
+  
+  .daniel-quote {
+      display: flex;
+      justify-content: flex-start;
+      text-align: start;
+      padding-left: 20px;
+  }
+  
+  
