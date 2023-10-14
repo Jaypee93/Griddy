@@ -11,7 +11,7 @@ const Daniel = () => {
                 <div className="daniel-intro">
                   <p>Daniel Clifford</p>
                   <p>
-                    <small>Verified Graduate</small>
+                    <small className="daniel-small">Verified Graduate</small>
                   </p>
                 </div>
                 <img className="qouteImg" src={qoute} alt="qoute" />

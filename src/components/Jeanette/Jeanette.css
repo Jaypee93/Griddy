@@ -1,0 +1,41 @@
+.Jeanette-container {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    padding: 10px 20px 20px 20px;
+  }
+  
+  .Jeanette-about {
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+    padding: 10px;
+  }
+  
+  .Jeanette-intro {
+    flex-direction: column;
+  }
+  
+  .Jeanette-small {
+    color: rgba(0, 0, 0, 0.7)
+  }
+  
+  .Jeanette-img {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+  }
+  
+  .Jeanette-comment {
+      display: flex;
+      text-align: start;
+      padding-left: 20px;
+    }
+  
+  .Jeanette-quote {
+      display: flex;
+      justify-content: flex-start;
+      text-align: start;
+      padding-left: 20px;
+      color: rgba(0, 0, 0, 0.7)
+    }
+  
